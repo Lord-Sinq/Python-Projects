@@ -1,0 +1,10 @@
+Classes for Spring 2023
+(CSC-133)Discrete Mathematical Structures CRN(20517) TR - 12:30 pm - 01:45 pm
+(MIS-213)Introduction to Management information system CRN(21226) TR - 08:00 am - 09:15 am
+(MAT-161)Calculus with Analytical Geometry 1 CRN(22620) MWF - 10:00 am - 10:50 am
+(MIS-320)Network Fundamentals CRN(21222) MW 11:00 am - 12:15 pm
+
+Maybe's
+
+(CYBR-201)Fundamentals of Cybersecurity CRN(21234) TR 02:00 pm - 03:15 pm
+(CIT-213)Introduction to Databases: Techiques and Technologies CRN(20602) TBA

@@ -1,0 +1,12 @@
+hall
+gallery
+factory
+depot
+barn
+airport
+garage
+gym
+hotel
+cabin
+mall
+kiosk
