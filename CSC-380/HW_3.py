@@ -5,7 +5,6 @@ Purpose: Homework 3 from CSC-380
 '''
 import time
 import random
-#import matplotlib.pyplot as plt
 
 def selection_sort(thing):
     n = len(thing)
@@ -49,16 +48,9 @@ def main():
 
         selection_times.append(selection_time)
         bubble_times.append(bubble_time)
-
-        # plt.plot(sizes, selection_time, label="Selection Sort")
-        # plt.plot(sizes, bubble_time, label="Bubble Sort")
-        # plt.xlabel("Array Size")
-        # plt.ylabel("Time (seconds)")
-        # plt.legend()
-        # plt.title("Selection Sort vs Bubble Sort Efficiency")
-        # plt.show()
+    print(f" Size \t Selection_time \t Bubble_time ")
     for size, selection_time, bubble_time in zip(sizes, selection_times, bubble_times):
-        print(f"Size: {size}\nTime: {selection_times: .6f} secounds\nBubble_time: {bubble_times: .6f} seconds")
+        print(f"{size}\t{selection_time: .6f}\t{bubble_time: .6f}")
 
 
 if __name__ == "__main__":
